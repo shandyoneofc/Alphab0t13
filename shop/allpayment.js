@@ -6,9 +6,9 @@ return `PAYMENT BY SHANDY JB
 1. GOPAY
 	ㅁ 08** **** ****
 2. OVO
-	ㅁ 0817 7929 8306
+	ㅁ 08** **** ****
 3. DANA
-	ㅁ 0817 7929 8306
+	ㅁ 08** **** ****
 	
 Semuanya atas nama S***** JB
 
