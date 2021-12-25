@@ -1823,7 +1823,7 @@ const checkWin = (sender) => {
         }
       }
     }
-    if (isGroup && !mek.key.fromMe &&  && !isGroupAdmins && !isOwner && !isCreator && isBotGroupAdmins){
+    if (isGroup && !mek.key.fromMe && !isGroupAdmins && !isOwner && !isCreator && isBotGroupAdmins){
             if (chatxs.match(/(https:\/\/chat.whatsapp.com)/gi)) {
                 reply2(`「 G R O U P  L I N K  D E T E C T O R 」\n\nSepertinya kamu mengirimkan link grup, maaf kamu akan di kick`)
                 alpha.groupRemove(from, [sender])
