@@ -1823,7 +1823,7 @@ const checkWin = (sender) => {
         }
       }
     }
-    if (isGroup && !mek.key.fromMe && isAntiLink && !isGroupAdmins && !isOwner && !isCreator && isBotGroupAdmins){
+    if (isGroup && !mek.key.fromMe &&  && !isGroupAdmins && !isOwner && !isCreator && isBotGroupAdmins){
             if (chatxs.match(/(https:\/\/chat.whatsapp.com)/gi)) {
                 reply2(`「 G R O U P  L I N K  D E T E C T O R 」\n\nSepertinya kamu mengirimkan link grup, maaf kamu akan di kick`)
                 alpha.groupRemove(from, [sender])
@@ -3457,7 +3457,7 @@ break
 					fs.unlinkSync(mediaa)
 					if (err) return reply('Yah gagal, coba ulangi ^_^')
 					buffer = fs.readFileSync(ran)
-					fakethumb(buffer,'```Nih kak, jgn lupa Support YT : ZEEONE OFC```')
+					fakethumb(buffer,'```Nih kak, jgn lupa Donasinya Support YT : SHANDYONE OFC```')
 					fs.unlinkSync(ran)
 					})
 					await limitAdd(sender, limit)
