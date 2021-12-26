@@ -10,8 +10,8 @@ return `DONASI BISA VIA E-MONEY
 3. DANA
 	ㅁ 08** **** ****
 	
-Semuanya atas nama S***** JB
-`
+Semuanya atas nama Y*****
+`p
 	}
 
 exports.donasibot = donasibot
