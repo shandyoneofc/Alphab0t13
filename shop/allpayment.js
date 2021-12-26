@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY SHANDY JB
+return `PAYMENT BY AHMAD
 
 *💰 E-MONEY*
 
@@ -10,7 +10,7 @@ return `PAYMENT BY SHANDY JB
 3. DANA
 	ㅁ 08** **** ****
 	
-Semuanya atas nama S***** JB
+Semuanya atas nama Y*****
 
 *📲 PULSA*
 
