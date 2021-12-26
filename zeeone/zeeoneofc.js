@@ -114,7 +114,7 @@ const download = (prefix) => {
 `
 }
 const allmenu = (kyun, os, prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensii)  => {
-	return`❏───「 *SHANDY BOT* 」───❏
+	return`❏───「 *𝐁𝐎𝐓𝐙 𝐁𝐀𝐑𝐑𝐘𝐀𝐍𝐃𝐄𝐗𝐗* 」───❏
                                
 ℒ⃝🌅  *THIS DAY*
 ${ucapannya2}
